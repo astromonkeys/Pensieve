@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/noahz/AndroidStudioProjects/passwordManager/app/src/main/res/drawable/logo_background.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/noahz/AndroidStudioProjects/passwordManager/app/src/main/res/drawable/logo_foreground.xml" value="0.2947916666666667" />
         <entry key="..\:/Users/noahz/AndroidStudioProjects/passwordManager/app/src/main/res/layout/activity_home.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/noahz/AndroidStudioProjects/passwordManager/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/noahz/AndroidStudioProjects/passwordManager/app/src/main/res/layout/activity_splash.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/noahz/AndroidStudioProjects/passwordManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15885416666666666" />
       </map>
     </option>
   </component>

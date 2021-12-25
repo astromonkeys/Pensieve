@@ -8,13 +8,13 @@ import android.os.Looper;
 
 public class SplashActivity extends Activity {
 
-    private int delayedTime = 2000;
+    private final int delayedTime = 2000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        setTitle("FitFriends");
+        setTitle(R.string.app_name);
         new Handler(Looper.getMainLooper()).postDelayed(new Runnable() {
             @Override
             public void run() {
