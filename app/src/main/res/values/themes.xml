@@ -12,5 +12,10 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <!-- TODO figure out how to use different logo based on light or dark mode -->
+    </style>
+
+    <style name="MyActionBarTheme" parent="Theme.Pensieve">
+        <item name="android:background">@color/main</item>
     </style>
 </resources>
